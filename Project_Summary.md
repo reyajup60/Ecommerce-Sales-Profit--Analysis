@@ -26,7 +26,7 @@ A complete Junior Data Analyst portfolio project built on a 7,500-order e-commer
 | Cleaning log | `Cleaning_Log.md` (+ Excel sheet) | ✅ 11-step log |
 | This summary | `Project_Summary.md` | ✅ |
 
-**Note on Power BI:** This environment cannot run Power BI Desktop (Windows-only application), so a `.pbix` binary could not be produced. `PowerBI_Dashboard_Guide.md` is a complete, step-by-step build spec — data import, DAX measures, visuals, slicers, and layout — written against the exact same Clean_Data so the resulting dashboard numbers will match the Excel and SQL outputs exactly.
+**Note on Power BI:** This environment cannot run Power BI Desktop (Windows-only application), so Power BI dashboard was built in Power BI Desktop — see screenshot below.PowerBI_Dashboard_Guide.md` is a complete, step-by-step build spec — data import, DAX measures, visuals, slicers, and layout — written against the exact same Clean_Data so the resulting dashboard numbers will match the Excel and SQL outputs exactly.
 
 ## Final Quality Check
 
