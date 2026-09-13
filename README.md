@@ -94,7 +94,8 @@ Full breakdown with all 12 insights: [`Business_Insights_and_Recommendations.md`
 
 ## Dashboard
 
-Power BI dashboard specification (KPI cards, DAX measures, visuals, slicers, layout) is documented in [`PowerBI_Dashboard_Guide.md`](./PowerBI_Dashboard_Guide.md). A `.pbix` file was not generated (no Power BI Desktop available in this build environment) — the guide is written so the dashboard can be reproduced exactly by importing `Clean_Data.csv`.
+Power BI dashboard specification (KPI cards, DAX measures, visuals, slicers, layout) is documented in [`PowerBI_Dashboard_Guide.md`](./PowerBI_Dashboard_Guide.md). 
+"The Power BI dashboard was built in Power BI Desktop — see screenshot below."
 
 ## SQL Analysis
 
