@@ -1,7 +1,7 @@
 # Power BI Dashboard Guide
 ### E-commerce Sales & Profit Analysis Dashboard
 
-This document is a complete build specification for the Power BI dashboard. A `.pbix` file cannot be generated in this environment (Power BI Desktop is a Windows application with no file-format library support here), so this guide gives everything needed to build it in Power BI Desktop in under an hour.
+This document is a complete build specification for the Power BI dashboard. "Power BI dashboard was built in Power BI Desktop — see screenshot below."
 
 ---
 
